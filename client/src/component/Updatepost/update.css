@@ -1,0 +1,13 @@
+.mainContainer {
+  background-color: violet;
+  width: 100%;
+  height: 90vh;
+}
+.formContainer {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 200px;
+  margin-top: 80px;
+}
